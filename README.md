@@ -1,2 +1,9 @@
-# game-backend-study
-Go、Python、中间件与Agent系统工程 · 1000小时教材与沉浸学习网页
+# 后端研习室 · 发布站点
+
+Go、Python、中间件与Agent系统工程教材：20章、100节、1000小时，六个大型项目。
+
+阅读地址：https://ranger1213123.github.io/game-backend-study/
+
+此仓库仅保存生成后的网页与课程资料。源修订：`a629f4f7b6ded8b575ba6d86fcc5e76341e999ed`。
+
+学习笔记、收藏和计时只保存在访问者的浏览器，不上传到GitHub；换地址后可通过导出/导入备份迁移。数据库、模型及项目实验仍在自己的环境中运行。

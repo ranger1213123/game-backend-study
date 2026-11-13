@@ -1,0 +1,1 @@
+{"path":"learning/projects/P06-enterprise-agent/target-fixture/README.md","title":"Packet Codec Target","markdown":"# Packet Codec Target\n\n修复UTF-8字节长度与重复JSON键，保持最大正文1024字节、严格长度/截断检查、顶层对象约束。\n重复键在任意嵌套对象出现都应拒绝。只能修改src内Python文件，不能修改评测代码、安装依赖或调用外网。\n这是CodingAgent执行协议的有缺陷目标仓库；P06毕业项目的工作量在编排、权限、恢复与测量，不在这两处目标缺陷本身。\n"}
